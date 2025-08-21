@@ -71,7 +71,8 @@ public/
 
 ## Screenshots
 
-![Landing Page Screenshot](public/images/image.png)
+![Landing Page Screenshot]
+(public/images/image.png)
 
 ## License
 
