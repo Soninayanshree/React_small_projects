@@ -71,7 +71,7 @@ public/
 
 ## Screenshots
 
-![Landing Page Screenshot](public/images/shoe_image.png)
+![Landing Page Screenshot](public/images/image.png)
 
 ## License
 
